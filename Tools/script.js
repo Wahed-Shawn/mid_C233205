@@ -1,1 +1,3 @@
-console.log('connected')
+let tasks = []
+
+document.getElementById('submit-btn')
